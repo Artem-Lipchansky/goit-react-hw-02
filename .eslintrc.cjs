@@ -1,5 +1,5 @@
 module.exports = {
-  root: true,
+  root: true,goit-react-hw-02
   env: { browser: true, es2020: true },
   extends: [
     'eslint:recommended',
